@@ -3,7 +3,7 @@ package main;
 import "fmt" 
 import "example.com/greetings"
 import "log"
-
+// This is a comment in go
 func main() {
   
   log.SetPrefix("Greetings: "); 
